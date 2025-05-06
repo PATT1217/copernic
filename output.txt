@@ -1,0 +1,90 @@
+Moving away from US cloud services
+https://martijnhols.nl/blog/moving-away-from-us-cloud-services
+
+Extracting DNA from the air – DNA evidence of human occupancy in indoor premises
+https://www.nature.com/articles/s41598-023-46151-7
+
+GIMP 3.0
+https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/
+
+BYD says new fast-charging system could be as quick as filling up a tank
+https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed
+
+Rhombus Language
+https://rhombus-lang.org
+
+Past and Present Futures of User Interface Design
+https://www.datagubbe.se/futui/
+
+The Dark Crystal: Age of Resistance Is a Stone-Cold Masterpiece
+https://gizmodo.com/reminder-the-dark-crystal-age-of-resistance-is-a-stone-cold-masterpiece-2000574613
+
+Archival Storage
+https://blog.dshr.org/2025/03/archival-storage.html
+
+The Calculated Typer
+https://bahr.io/pubs/entries/calctyper.html
+
+Building AI agents to query your databases
+https://blog.dust.tt/spreadsheets-databases-and-beyond-creating-a-universal-ai-query-layer/
+
+Depot (YC W23) is hiring a founding developer marketer (EU/US remote)
+https://www.ycombinator.com/companies/depot/jobs/307RqGp-founding-developer-marketer
+
+Deep Learning Is Not So Mysterious or Different
+https://arxiv.org/abs/2503.02113
+
+Alphabet spins out Taara – Internet over lasers
+https://x.company/blog/posts/taara-graduation/
+
+Show HN: OpenTimes – Free travel times between U.S. Census geographies
+https://opentimes.org
+
+Hidden Messages in Emojis and Hacking the US Treasury
+https://slamdunksoftware.substack.com/p/hidden-messages-in-emojis-and-hacking
+
+Rippling sues Deel over spying
+https://twitter.com/parkerconrad/status/1901615179718406276
+
+The High Heel Problem
+https://simonschreibt.de/gat/the-high-heel-problem/
+
+HTTP/3 is everywhere but nowhere
+https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/
+
+PrintedLabs – 3D printable optical experiment equipment
+https://printedlabs.uni-bayreuth.de/en
+
+Show HN: I Built an iOS app to locate stray animals
+https://apps.apple.com/us/app/straysync/id6742747753
+
+After 47 years, OpenVMS gets a package manager (VSP)
+https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html
+
+When Oregon blew up a whale with 20 cases of dynamite
+https://katu.com/news/local/exploding-whale-day-54-years-since-whale-infamously-blown-up-on-oregon-beach
+
+Six mistakes I made in my dioramas-and-felt Steam game and one I didn't
+https://novalis.org/blog/2025-03-13-six-mistakes-i-made-and-one-i-avoided.html
+
+Using Time Travel for Procrastination
+https://medium.com/luminasticity/using-time-travel-for-procrastination-8c8ab4d0de4d
+
+Wall Street’s ‘Private Rooms’
+https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms
+
+Show HN: Cascii – A portable ASCII diagram builder written in vanilla JavaScript
+https://github.com/casparwylie/cascii-core
+
+Quantum Speedup Found for Class of Hard Problems
+https://www.quantamagazine.org/quantum-speedup-found-for-huge-class-of-hard-problems-20250317/
+
+Theory crafting a system for 1000 simultaneous micro SD card ingests
+https://forum.level1techs.com/t/theory-crafting-a-system-for-maximum-simultaneous-micro-sd-card-ingest/227159
+
+Show HN: Psychedelic animation generator; (p)art of your next trip
+https://collidingscopes.github.io/liquid-shape-distortions/
+
+Extracting content from an LCP “protected” ePub
+https://shkspr.mobi/blog/2025/03/towards-extracting-content-from-an-lcp-protected-epub/
+
